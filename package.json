@@ -1,6 +1,6 @@
 {
   "name": "@flaming_phoenix/git-with-npm-scripts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "an Easy Command Line Deployment of Github Pages",
   "main": "index.js",
   "scripts": {
