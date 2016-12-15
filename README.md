@@ -24,6 +24,10 @@ Steps for Installation:
 
 ### Step 1:
 ```bash
+#Preferable Way (Save it as a dev-dependency)
+npm install --save-dev @flaming_phoenix/git-with-npm-scripts
+```
+```bash
 # To install locally and adding it as dependency
 npm install --save @flaming_phoenix/git-with-npm-scripts
 ```
