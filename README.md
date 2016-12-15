@@ -1,5 +1,6 @@
 # Github Pages With NPM(Scripts)
- >> an Easy Command Line Deployment of Github Pages
+ >> ( an Easy Command Line Deployment of Github Pages )
+
 ---
 Basic useful feature list:
 
