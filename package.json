@@ -1,0 +1,30 @@
+{
+  "name": "@flaming_phoenix/git-with-npm-scripts",
+  "version": "1.0.0",
+  "description": "an Easy Command Line Deployment of Github Pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "github-pages-commit": "bin/commit.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-F-4/git-with-npm-scripts.git"
+  },
+  "keywords": [
+    "git",
+    "npm",
+    "git-it"
+  ],
+  "author": "flaming_phoenix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C-F-4/git-with-npm-scripts/issues"
+  },
+  "homepage": "https://github.com/C-F-4/git-with-npm-scripts#readme",
+  "dependencies": {
+    "shelljs": "^0.7.5"
+  }
+}
